@@ -35,10 +35,9 @@ _Make sure to only download installers from this official repository to avoid ta
 
 ## Features
 
-- Backup automation
-- Backup manual
-- Cleanup automation
-- Cleanup manual
+- Backup automation & manual.
+- Cleanup automation & manual.
+- Emailing for report of backup.
 
 ---
 
