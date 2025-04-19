@@ -7,6 +7,18 @@ This repository is used to host the official Windows installer for the **Auro** 
 
 ---
 
+## 📑 Table of Contents
+
+- [📦 Download](#-download)
+- [📋 What is Auro?](#-what-is-auro)
+- [✅ Installation Instructions](#-installation-instructions)
+- [🛡️ Grant SQL Server Permission to Write Backups to OneDrive](#️-grant-sql-server-permission-to-write-backups-to-onedrive)
+  - [✅ Steps to Grant Full Control to SQL Server](#-steps-to-grant-full-control-to-sql-server)
+- [🔒 Security Notice](#-security-notice)
+- [📫 Support](#-support)
+
+---
+
 ## 📦 Download
 
 Latest version of the Auro installer:
