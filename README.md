@@ -23,7 +23,7 @@ This repository is used to host the official Windows installer for the **Auro** 
 
 Latest version of the Auro installer:
 
-👉 [Download Auro Setup 1.0.5](https://github.com/jon4thanDev/auro-installer/releases/download/auro/auro.Setup.1.0.6.exe)
+👉 [Download Auro Setup 1.0.5](https://github.com/jon4thanDev/auro-installer/releases/download/auro/auro.Setup.1.0.8.exe)
 
 _Make sure to only download installers from this official repository to avoid tampered versions._
 
